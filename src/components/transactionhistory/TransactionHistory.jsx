@@ -1,3 +1,4 @@
+import React from 'react';
 import css from './TransactionHistory.module.css';
 
 export const TransactionHistory = ({ item }) => {
