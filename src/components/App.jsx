@@ -8,7 +8,7 @@ import { Statistics } from './Statistics/Statistics.jsx';
 import { FriendList } from './friendlist/FriendList.jsx';
 import { TransactionHistory } from './Transactionhistory/TransactionHistory.jsx';
 
-import css from './App.module.css';
+// import css from './App.module.css';
 
 export const App = () => {
   return (
