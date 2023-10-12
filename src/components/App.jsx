@@ -8,7 +8,7 @@ import transactions from '../data/transactions.json';
 import { Profile } from './Profile/Profile.jsx';
 import { Statistics } from './Statistics/Statistics.jsx';
 import { FriendList } from './friendlist/FriendList.jsx';
-import { TransactionHistory } from './Transactionhistory/TransactionHistory.jsx';
+import { TransactionHistory } from './TransactionHistory/TransactionHistory.jsx';
 
 // import css from './App.module.css';
 
